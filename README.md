@@ -1,7 +1,5 @@
 # JS-Application-Exam-Task
 
-# Project Title
-
 This is a single-page application (SPA) built with JavaScript, lit-html, and page.js for client-side routing.
 
 ## Installation
@@ -22,9 +20,9 @@ This application includes the following pages:
 - Edit
 
 1. Open a new terminal and run the following command to start the server:
-node server.js
+`node server.js`
 2. Open another terminal and run the following command to start the application:
-npm start
+`npm start`
 
 
 ## API
